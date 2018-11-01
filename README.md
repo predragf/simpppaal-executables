@@ -25,4 +25,4 @@ The models used for analysis are located in the **uppaal analysis models** folde
 
 The base model was generated using the SIMPPPAAL tool, however, each of the models have been manually adjusted to incorporate the missing block routines and to create the monitor automata. 
 
-In order to be able to analyze the models, you must download the UPPAAL tool. The tool is free for academic use and it can be downloaded from the following [link](http://www.it.uu.se/research/group/darts/uppaal/download.shtml)
+In order to be able to analyze the models, you must download the UPPAAL tool. The tool is free for academic use and it can be downloaded from the following [link](http://www.it.uu.se/research/group/darts/uppaal/download.shtml){:target="_blank"}.
