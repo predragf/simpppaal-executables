@@ -21,7 +21,7 @@ Once all the required files have been provided, you can press the **Start** butt
 
 ## Model Analysis
 
-The models used for analysis are located in the ** uppaal analysis models ** folder. We create a separate model for each property due to the difference in the monitor automata.
+The models used for analysis are located in the **uppaal analysis models** folder. We create a separate model for each property due to the difference in the monitor automata.
 
 The base model was generated using the SIMPPPAAL tool, however, each of the models have been manually adjusted to incorporate the missing block routines and to create the monitor automata. 
 
